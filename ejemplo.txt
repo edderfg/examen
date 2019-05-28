@@ -6,5 +6,6 @@ Definiciones de la cabecera
 Instrucciones HTML
 
 	<p> Me ayudo Bernal V1</p>
+	<p> Me ayudo Bernal V2</p>
 </BODY>
 </HTML>
