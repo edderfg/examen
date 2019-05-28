@@ -1,0 +1,10 @@
+<HTML>
+<HEAD>
+Definiciones de la cabecera
+</HEAD>
+<BODY>
+Instrucciones HTML
+
+	<p> </p>
+</BODY>
+</HTML>
